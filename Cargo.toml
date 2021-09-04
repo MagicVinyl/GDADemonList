@@ -1,0 +1,13 @@
+[workspace]
+members = [
+    "pointercrate-core",
+    "pointercrate-core-api",
+    "pointercrate-core-pages",
+    "pointercrate-demonlist",
+    "pointercrate-demonlist-api",
+    "pointercrate-demonlist-pages",
+    "pointercrate-user",
+    "pointercrate-user-api",
+    "pointercrate-user-pages",
+    "pointercrate-integrate"
+]
